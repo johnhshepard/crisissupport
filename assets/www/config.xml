@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.crisissupportsolutions.gokits"
+        versionCode = "1" 
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Go Kits</name>
+
+    <description>
+        The most comprehensive, downloadable, fully mobile crisis responder "tool-kit" ever created! 
+    </description>
+
+    <author href="http://crisissupportsolutions.com" email="info@crisissupportsolutions.com">
+        Crisis Support Solutions 
+    </author>
+
+</widget>
